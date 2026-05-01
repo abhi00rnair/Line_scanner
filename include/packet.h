@@ -12,7 +12,7 @@ struct DataPacket
  int row2;
  int colo2;
 
- bool isend=false;
+ bool isend=false; // for indicating the lsst packet
 };
 
 #endif
